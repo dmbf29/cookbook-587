@@ -1,1 +1,6 @@
-Birthday Cake,Happy birthday Kenn!!!!!
+name,description,rating,done,prep_time
+burger,grilled,,false,
+Grilled Chocolate Sandwich,"This is JUST like making a grilled cheese, but you are using chocolate! Created this while craving chocolate and carbs.",,true,
+Sinful Banana Pudding,No cook amaretto banana pudding,5,false,30 mins
+Bronco Burger,"The manly man burger (not for wimps), great for NFL tailgating.",5,false,10 mins
+Sweet Potato Waffles,Yummy sweet potato waffles.,4,true,15 mins
